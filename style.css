@@ -1,5 +1,5 @@
 /* Common Styles */
-h1 {
+/* h1 {
     color: #0084FF;
     background-color: #EFF4FC;
     padding-bottom: 3rem;
@@ -13,10 +13,10 @@ p,
 td {
     color: grey;
     ;
-}
+} */
 
 /* Header Styling */
-header {
+/* header {
     position: relative;
 }
 
@@ -160,10 +160,10 @@ table+div {
 
 #receipt-container p:nth-child(2) {
     color: #0084FF;
-}
+} */
 
 /* Footer Styling */
-footer {
+/* footer {
     background-color: #10214A;
 }
 
@@ -208,14 +208,14 @@ span {
 
 footer div p:last-child {
     color: #1076f1;
-}
+} */
 
 /* Responsiveness */
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
     #about-cues {
         text-align: start;
     }
-}
+} */
 
 /* @media only screen and (max-width: 425px) {
     p{
